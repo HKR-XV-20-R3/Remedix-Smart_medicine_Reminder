@@ -72,7 +72,7 @@ It demonstrates real-world use of microcontroller programming, RTC integration, 
 
 ## Project Files
 - **Source Code:** [Click here!](https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/codes.cpp)
-- **Circuit Diagram:** `/images/circuit.png` (add your path)  
-- **Flowchart:** `/images/flowchart.png`  
+- **Circuit Diagram:** `
+- **Flowchart:** https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/Images/Flow%20Chart.png
 
 ---
