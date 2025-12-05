@@ -71,7 +71,7 @@ It demonstrates real-world use of microcontroller programming, RTC integration, 
 ---
 
 ## 📎 Project Files
-- **Source Code:** `main_code.ino` (or your filename)  
+- **Source Code:** codes.cpp(https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/codes.cpp)
 - **Circuit Diagram:** `/images/circuit.png` (add your path)  
 - **Flowchart:** `/images/flowchart.png`  
 
