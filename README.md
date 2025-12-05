@@ -61,7 +61,8 @@ It uses an **ATmega32P microcontroller**, **DS1307/DS3231 RTC**, **16x2 LCD**, L
 6. System checks for match  
 7. Alarm triggers  
 8. Returns to real-time display
-- **Flowchart:** <img alt="Flow Chart" src="https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/Images/Flow%20Chart.png">
+- **Flowchart:**
+- <img alt="Flow Chart" src="https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/Images/Flow%20Chart.png">
 
 
 ---
