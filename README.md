@@ -90,4 +90,4 @@ It demonstrates real-world use of microcontroller programming, RTC integration, 
 
 **Md. Humayun Khalid**
 
-- Student
+Student
