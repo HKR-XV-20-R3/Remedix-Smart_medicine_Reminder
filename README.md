@@ -64,14 +64,14 @@ It uses an **ATmega32P microcontroller**, **DS1307/DS3231 RTC**, **16x2 LCD**, L
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 The Smart Medicine Reminder System successfully delivers a low-cost, reliable, and user-friendly solution to ensure timely medication intake.  
 It demonstrates real-world use of microcontroller programming, RTC integration, and user-centric design, while forming a strong base for future upgrades like GSM alerts or smartphone connectivity.
 
 ---
 
-## 📎 Project Files
-- **Source Code:** codes.cpp(https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/codes.cpp)
+## Project Files
+- **Source Code:** [codes.cpp](https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/codes.cpp)
 - **Circuit Diagram:** `/images/circuit.png` (add your path)  
 - **Flowchart:** `/images/flowchart.png`  
 
