@@ -84,7 +84,9 @@ It demonstrates real-world use of microcontroller programming, RTC integration, 
 
 ## Project Files
 - **Source Code:** [Click here!](https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/codes.cpp)
-- **Project Report:** You can find PDF report here:  
- **[Download Full Report](https://github.com/HKR-XV-20-R3/Plant-ecom-project/blob/main/Project%20report/ECE_3100_Project_Report_2110015.pdf)**  
+- **Project Report:** **[Download Full Report](https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/Project%20report/Smart%20Medicine%20Reminder_2110004_2110015.pdf)**  
 
 ---
+
+Md. Humayun Khalid
+Student
