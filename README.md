@@ -43,6 +43,14 @@ It uses an **ATmega32P microcontroller**, **DS1307/DS3231 RTC**, **16x2 LCD**, L
 
 ---
 
+## Circuit Diagram
+
+<p align="center">
+<img alt="Circuit Diagram" src="https://github.com/HKR-XV-20-R3/Remedix-Smart_medicine_Reminder/blob/main/Images/Simulation.png">
+</p>
+
+---
+
 ## Working Principle
 1. RTC tracks real-time continuously.  
 2. User sets alarm hour & minute.  
