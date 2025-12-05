@@ -1,29 +1,42 @@
-Arduino Medicine Reminder System
-Project Overview
+# Arduino Medicine Reminder System
+
+## Project Overview
 This project is a Medicine Reminder System using Arduino, DS3231 RTC, LCD, buttons, buzzer, and LED. The user can set alarm hours and minutes, view current time, and receive a reminder when it's time to take medicine.
 
-Features
-Set alarm hour and minute using buttons
-Display real-time clock from DS3231
-Display alarm time
-Alarm notification with buzzer + LED
-Stop alarm using button
-Alarm resets after one minute
-Pin Configuration
-Component	Pin
-LCD RS	7
-LCD EN	6
-LCD D4	5
-LCD D5	4
-LCD D6	3
-LCD D7	2
-Hour Button	10
-Minute Button	11
-Alarm Set Button	8
-Stop Button	13
-Buzzer	9
-LED	12
-Source Code
+---
+
+## Features
+- Set alarm hour and minute using buttons  
+- Display real-time clock from DS3231  
+- Display alarm time  
+- Alarm notification with buzzer + LED  
+- Stop alarm using button  
+- Alarm resets after one minute  
+
+---
+
+## Pin Configuration
+
+| Component | Pin |
+|----------|-----|
+| LCD RS | 7 |
+| LCD EN | 6 |
+| LCD D4 | 5 |
+| LCD D5 | 4 |
+| LCD D6 | 3 |
+| LCD D7 | 2 |
+| Hour Button | 10 |
+| Minute Button | 11 |
+| Alarm Set Button | 8 |
+| Stop Button | 13 |
+| Buzzer | 9 |
+| LED | 12 |
+
+---
+
+## Source Code
+
+```cpp
 #include <LiquidCrystal.h>
 #include <Wire.h>
 #include <RTClib.h>
